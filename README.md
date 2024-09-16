@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-El preosente proyecto implementa el Juego 
+El presente proyecto implementa el Juego 
 
 # Trabajo en Equipo
 
